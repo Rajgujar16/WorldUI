@@ -104,7 +104,7 @@
 .card-1{
     width: 235px;
     height: 350px;
-    background: url(./Assets/61oNbtVqtVS._SL1360_.jpg);
+    background: url(./assets/61oNbtVqtVS._SL1360_.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -117,7 +117,7 @@
 .card-2{
     width: 235px;
     height: 350px;
-    background: url(./Assets/images.jpg);
+    background: url(./assets/images.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -186,7 +186,7 @@
     width: 35px;
     height: 35px;
     border-radius: 50px;
-    background: url(./Assets/depositphotos_9141130-stock-photo-little-boy-face.jpg);
+    background: url(./assets/depositphotos_9141130-stock-photo-little-boy-face.jpg);
     background-size: cover;
     position: relative;
     left: 20px;
@@ -196,7 +196,7 @@
     width: 35px;
     height: 35px;
     border-radius: 50px;
-    background: url(./Assets/download.jpg);
+    background: url(./assets/download.jpg);
     background-size: cover;
     position: relative;
     left: 10px;
@@ -206,7 +206,7 @@
     width: 35px;
     height: 35px;
     border-radius: 50px;
-    background: url(./Assets/0_xFuo_UNWchLZ8bqS.jpg);
+    background: url(./assets/0_xFuo_UNWchLZ8bqS.jpg);
     background-size: cover;
 }
 .icon i{
